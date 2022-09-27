@@ -43,6 +43,9 @@ section#login {
     border-radius: 20px;
     box-shadow: 0px 0px 10px var(--cor5);
     background-color: var(--cor1);
+
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
