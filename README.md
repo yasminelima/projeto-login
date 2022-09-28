@@ -19,6 +19,6 @@ Desktop: 992px até 1200px<br>
     <tr>
         <td>
         <h3>HTML5 e CSS3</h3>
-        <p>🚀  Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="XXXX" target="_blank"></a></p>
+        <p>🚀  Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="https://www.estudonauta.com/curso/desenvolvimento-web-2020-html5css3-modulo-4-de-5/" target="_blank">EM ANDAMENTO</a></p>
         </td>
     </tr>
